@@ -1,0 +1,27 @@
+{
+  "identifier" : "ClienteleProducts",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.clientelenotes.pro",
+      "localizations" : [
+        {
+          "description" : "Clientele Pro - Photo attachments and visit-history timeline",
+          "displayName" : "Clientele Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.clientelenotes.pro",
+      "referenceName" : "Clientele Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
